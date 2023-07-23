@@ -1,1 +1,31 @@
-/*  your css code here. If applicable */
+body{
+	background-color : #cccccc;
+}
+
+.player_one{
+	border : 1px solid black;
+	border-radius : 2px;
+	background-color : #ffffff;
+	display: flex;
+	flex-direction: column;
+	padding : 20px;
+}
+
+.main-heading{
+	text-align : center;
+}
+.player_one a{
+	text-decoration :none;
+	color :black;
+}
+
+.player_two{
+	max-width:400px;
+	align-item :center;
+	border : 1px solid black;
+	border-radius : 2px;
+	background-color : #ffffff;
+	display: flex;
+	flex-direction: column;
+	padding : 10px;
+}
