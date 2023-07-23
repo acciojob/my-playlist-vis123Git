@@ -26,6 +26,7 @@ body{
 	border-radius : 2px;
 	background-color : #ffffff;
 	display: flex;
+  justify-content: center; 
 	flex-direction: column;
 	padding : 10px;
 }
